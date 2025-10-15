@@ -1,22 +1,22 @@
-# ¡Hola! Soy Andy (@Darjiro) 👋
+# Hi! I'm Andy (@Darjiro) 👋
 
-### Backend Developer | Apasionado por el DevOps y la Automatización 🚀
+### Backend Developer | Passionate about DevOps and Automation 🚀
 
 <br/>
 
-Soy un desarrollador de 23 años con un fuerte enfoque en el **backend**. Mi experiencia se basa en la construcción de **proyectos personales complejos de principio a fin**, desde el diseño de la API y la base de datos hasta el despliegue final en producción. Me especializo en crear aplicaciones robustas y escalables, y disfruto gestionando la infraestructura necesaria para ponerlas en marcha.
+I am a 24-year-old developer with a strong focus on the **backend**. My experience is based on building **complex personal projects from start to finish**, from API and database design to final deployment in production. I specialize in creating robust and scalable applications, and I enjoy managing the infrastructure needed to get them up and running.
 
-- 🌱 Actualmente explorando arquitecturas de microservicios y mejorando mis prácticas de CI/CD.
-- 💞️ Abierto a colaborar en proyectos de código abierto o startups innovadoras, especialmente si involucran Python o tecnologías en la nube.
-- 📫 Puedes contactarme a través de las insignias al final de este perfil.
+- 🌱 Currently exploring microservices architectures and improving my CI/CD practices.
+- 💞️ Open to collaborating on open-source projects or innovative startups, especially if they involve Python or cloud technologies.
+- 📫 You can contact me through the badges at the end of this profile.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ My Tech Stack
 
-Mi conjunto de herramientas principal se centra en la eficiencia y la escalabilidad.
+My main toolset is focused on efficiency and scalability.
 
-| Backend                                                                                                                              | Frontend / Móvil                                                                                                                                     | DevOps & Despliegue                                                                                                                                                                 |
+| Backend                                                                                                                              | Frontend / Mobile                                                                                                                                  | DevOps & Deployment                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                                  | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)                                            | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                                                |
 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)                                | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)                                                    | ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                               |
@@ -26,44 +26,44 @@ Mi conjunto de herramientas principal se centra en la eficiencia y la escalabili
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-Aunque el código de mis proyectos es privado, aquí describo algunos de los más significativos que he desarrollado.
+Although the code for my projects is private, here I describe some of the most significant ones I have developed.
 
-### 💸 Plataforma de Remesas (Full-Stack)
-Una aplicación completa para la gestión de envíos de dinero, construida con una arquitectura modular que incluye múltiples componentes que se comunican entre sí.
+### 💸 Remittance Platform (Full-Stack)
+A complete application for managing money transfers, built with a modular architecture that includes multiple components that communicate with each other.
 
-- **Características Principales:**
-  - Backend RESTful con FastAPI para gestionar usuarios, transacciones y seguridad.
-  - Panel de administración en Next.js para la moderación y gestión de operaciones.
-  - Dos aplicaciones móviles (para clientes y para gestores) desarrolladas en React Native (Expo).
-  - Notificaciones en tiempo real y arquitectura orientada a eventos.
-- **Tecnologías:**
+- **Main Features:**
+  - RESTful backend with FastAPI to manage users, transactions, and security.
+  - Administration panel in Next.js for moderation and operations management.
+  - Two mobile applications (for clients and for managers) developed in React Native (Expo).
+  - Real-time notifications and event-driven architecture.
+- **Technologies:**
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔗 Aplicación P2P de Criptomonedas
-Un sistema peer-to-peer funcional para el intercambio de criptomonedas, enfocado en la comunicación directa entre usuarios sin intermediarios.
+### 🔗 P2P Cryptocurrency Application
+A functional peer-to-peer system for cryptocurrency exchange, focused on direct communication between users without intermediaries.
 
-- **Características Principales:**
-  - Lógica de transacciones segura para garantizar intercambios fiables.
-  - Comunicación directa entre pares utilizando WebSockets para un rendimiento óptimo.
-  - Sistema de reputación de usuarios para construir confianza en la plataforma.
-- **Tecnologías:**
+- **Main Features:**
+  - Secure transaction logic to ensure reliable exchanges.
+  - Direct peer-to-peer communication using WebSockets for optimal performance.
+  - User reputation system to build trust on the platform.
+- **Technologies:**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websockets&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-> Estoy encantado de discutir la arquitectura y los desafíos técnicos de estos proyectos en una conversación.
+> I am happy to discuss the architecture and technical challenges of these projects in a conversation.
 
 ---
 
-## 📫 ¿Hablamos?
+## 📫 Let's Talk?
 
-¡Conectemos! Siempre estoy dispuesto a charlar sobre tecnología, nuevas ideas o posibles colaboraciones.
+Let's connect! I am always open to chatting about technology, new ideas, or potential collaborations.
 
 <p align="left">
 <a href="mailto:andyale01122177069@gmail.com" target="_blank">
