@@ -21,23 +21,42 @@ My main toolset is focused on efficiency and scalability.
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                                  | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)                                            | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                                                |
 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)                                | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)                                                    | ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)                                                               |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)                                | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)                                      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                   |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)                        |                                                                      |                                                                                                                                                                                     |
-| ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)                   | ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)                                                        | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)                                                                    |
-|                                                                                                                                      |                                                                                                                                                      | ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)                                                                             |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)                        |                                                                                                                                                      | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)                                                                    |
+| ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)                   | ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)                                                        | ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)                                                                             |
 
 ---
 
 ## 🚀 Featured Projects
 
-Although the code for my projects is private, here I describe some of the most significant ones I have developed.
+Although the code for some of my projects is private, here I describe the most significant ones.
+
+### 🛍️ KeepAll (Founder & Lead Dev)
+**[keep-all.com](https://keep-all.com)**
+
+A next-generation digital marketplace SaaS that empowers creators to sell content. Built to disrupt frameworks like Gumroad by leveraging crypto signatures on the Base network for **completely gasless** and instant access control.
+
+- **Main Features:**
+  - **Zero-Fee Access:** Integrated **x402 protocol** on **Base** allowing buyers to access content simply by signing (no gas fees).
+  - **Creator-First:** Custom profile pages (`/@username`), product dashboards, and sales analytics.
+  - **Community Automation:** **Telegram Bots** automatically manage exclusive communities (invite/kick users based on access).
+  - **Robust Backend:** Powered by **FastAPI** and **MongoDB** for high-performance data handling.
+  - **Secure Storage:** Digital assets secured and served via **Cloudflare R2**.
+
+- **Technologies:**
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+  ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+  ![Base](https://img.shields.io/badge/Base_Network-0052FF?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### 💸 Remittance Platform (Full-Stack)
 A complete application for managing money transfers, built with a modular architecture that includes multiple components that communicate with each other.
 
 - **Main Features:**
-  - RESTful backend with FastAPI to manage users, transactions, and security.
-  - Administration panel in Next.js for moderation and operations management.
-  - Two mobile applications (for clients and for managers) developed in React Native (Expo).
+  - RESTful backend with **FastAPI** to manage users, transactions, and security.
+  - Administration panel in **Next.js** for moderation and operations management.
+  - Two mobile applications (for clients and for managers) developed in **React Native (Expo)**.
   - Real-time notifications and event-driven architecture.
 - **Technologies:**
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
